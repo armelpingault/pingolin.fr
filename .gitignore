@@ -1,2 +1,2 @@
-# Ignore installed npm modules
+_site/
 node_modules/
